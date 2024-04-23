@@ -11,7 +11,7 @@
     "angular-oauth2-oidc": "^13.0.1",
     "just-clone": "^3.2.1",
     "just-compare": "^1.4.0",
-    "ts-toolbelt": "6.15.4",
+    "ts-toolbelt": "6.15.5",
     "tslib": "^2.0.0"
   },
   "publishConfig": {

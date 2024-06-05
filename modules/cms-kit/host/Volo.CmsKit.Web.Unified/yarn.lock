@@ -64,7 +64,7 @@
     "@abp/core" "~8.1.3"
     clipboard "^2.0.8"
 
-"@abp/cms-kit.admin@~8.1.1":
+"@abp/cms-kit.admin@~8.1.2":
   version "8.1.3"
   resolved "https://registry.yarnpkg.com/@abp/cms-kit.admin/-/cms-kit.admin-8.1.3.tgz#700e846dc2d1b9e19be05b14ffb89fa0696af5df"
   integrity sha512-shVepiLMbfdspCgZtWWp+fmBo5qHC8AFLVCZYG7oQm4Ijf1cr0rR0KI/oNyMl8PvlMY0QK39vEX9F5zjYQMp3Q==
@@ -75,7 +75,7 @@
     "@abp/tui-editor" "~8.1.3"
     "@abp/uppy" "~8.1.3"
 
-"@abp/cms-kit.public@~8.1.1":
+"@abp/cms-kit.public@~8.1.2":
   version "8.1.3"
   resolved "https://registry.yarnpkg.com/@abp/cms-kit.public/-/cms-kit.public-8.1.3.tgz#54439fc466b65e8866fe685d378ffd03d18f58e1"
   integrity sha512-R8wnZEYb0xKO10w5uDuFHhKgRHJYC3UXnlxf6SA9KHBFTVVbR9OwUSV69apgUj9YWD0PtKRhTiRYOZSyEGvZAQ==
@@ -83,13 +83,13 @@
     "@abp/highlight.js" "~8.1.3"
     "@abp/star-rating-svg" "~8.1.3"
 
-"@abp/cms-kit@8.1.1":
-  version "8.1.1"
-  resolved "https://registry.yarnpkg.com/@abp/cms-kit/-/cms-kit-8.1.1.tgz#058ccd9c793f7599c7d63e19bdd3b4f9d8e376e4"
-  integrity sha512-vtU+OhhtmviI2FQGCmplkwT/FthqtwXi6NW9qfFaZnQrWNYmJ2zc/8P//8+Hf3k4o8DAY++qYyKDBqfk4Tljfw==
+"@abp/cms-kit@8.1.2":
+  version "8.1.2"
+  resolved "https://registry.yarnpkg.com/@abp/cms-kit/-/cms-kit-8.1.2.tgz#a912bd0e934db7746bed220f11d275939c982b0c"
+  integrity sha512-Y2ZQjESqyLouzYDXwhj+dpB/MiTctput9RWAi1E+9bGx28Fm/e2mKpVGjOO8G2XSZ/q10xrjycwdjPIpWYiAXw==
   dependencies:
-    "@abp/cms-kit.admin" "~8.1.1"
-    "@abp/cms-kit.public" "~8.1.1"
+    "@abp/cms-kit.admin" "~8.1.2"
+    "@abp/cms-kit.public" "~8.1.2"
 
 "@abp/codemirror@~8.1.3":
   version "8.1.3"

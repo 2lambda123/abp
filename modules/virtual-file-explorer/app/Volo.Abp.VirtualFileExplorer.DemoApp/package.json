@@ -1,9 +1,9 @@
 {
-  "name": "volo.virtualfileexplorer.dempapp",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "@abp/aspnetcore.mvc.ui.theme.basic": "^8.2.0",
-    "@abp/virtual-file-explorer": "^6.0.3"
-  }
+    "name": "volo.virtualfileexplorer.dempapp",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@abp/aspnetcore.mvc.ui.theme.basic": "^8.2.0",
+        "@abp/virtual-file-explorer": "^6.0.3"
+    }
 }

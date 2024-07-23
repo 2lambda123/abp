@@ -9,7 +9,7 @@
     <PackageId>Volo.Blogging.Application</PackageId>
     <RootNamespace />
   </PropertyGroup>
-  
+
   <ItemGroup>
     <PackageReference Include="SixLabors.ImageSharp" Version="2.1.9" />
   </ItemGroup>

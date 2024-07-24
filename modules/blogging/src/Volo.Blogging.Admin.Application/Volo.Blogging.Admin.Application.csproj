@@ -11,9 +11,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="SixLabors.ImageSharp" Version="1.0.4" />
+        <PackageReference Include="SixLabors.ImageSharp" Version="2.1.9" />
     </ItemGroup>
-    
+
     <ItemGroup>
         <ProjectReference Include="..\Volo.Blogging.Admin.Application.Contracts\Volo.Blogging.Admin.Application.Contracts.csproj" />
         <ProjectReference Include="..\Volo.Blogging.Domain\Volo.Blogging.Domain.csproj" />
